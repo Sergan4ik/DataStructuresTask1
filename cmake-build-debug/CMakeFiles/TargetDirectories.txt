@@ -1,0 +1,3 @@
+/Users/sergiyklochak/CLionProjects/DataStructuresTask1/cmake-build-debug/CMakeFiles/DataStructuresTask1.dir
+/Users/sergiyklochak/CLionProjects/DataStructuresTask1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergiyklochak/CLionProjects/DataStructuresTask1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
